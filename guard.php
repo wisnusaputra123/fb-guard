@@ -23,19 +23,19 @@ $lightpurple = "\e[1;35m";
 pilih:
     system($bersih);
     echo "
-$blue __      _(_)___ _ __  _   _
-$blue \ \ /\ / / / __| '_ \| | | |
-$blue  \ V  V /| \__ \ | | | |_| |
-$blue   \_/\_/ |_|___/_| |_|\__,_|";
+$lightgreen __      _(_)___ _ __  _   _
+$lightgreen \ \ /\ / / / __| '_ \| | | | $lightred Hacker
+$lightgreen  \ V  V /| \__ \ | | | |_| |
+$lightgreen   \_/\_/ |_|___/_| |_|\__,_|";
     echo "
 
-$cyan Author  : wisnu saputra
-$lightcyan Type    : Profil Guard Facebook
-$cyan Github  : http://github.com/wisnusaputra123
+$purple Author  : wisnu saputra
+$yellow Type    : Profil Guard Facebook
+$brown Github  : http://github.com/wisnusaputra123
 $blue Fanspage : https://facebook.com/wisnu.saputra
 $red Instagram : https://instagram.com/wisnu_as123
 $purple Version : 1.0
-$yellow Date    : $date
+$lightgray Date    : $date
 ";
     echo " 
 ";
@@ -74,7 +74,7 @@ $yellow Date    : $date
         die("$red (!) See You $red (!)
 ");
     } elseif ($pilih == "y") {
-        echo "$red ATTENTION :$green Silahkan login melalui browser pertama untuk menghindari Checkpoint (mis: Opera, Chrome, UC, dan lain-lain)
+        echo "$red PERINGATAN :$green Silahkan login melalui browser pertama untuk menghindari Checkpoint (mis: Opera, Chrome, UC, dan lain-lain)
 ";
         echo "$brown Saat Anda mengetik kata sandi, tetapi disembunyikan, Lanjutkan setelah selesai, silakan klik Enter
 ";
