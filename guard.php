@@ -23,17 +23,18 @@ $lightpurple = "\e[1;35m";
 pilih:
     system($bersih);
     echo "
-$blue  ____        _    _   __        _    _____
-$lightcyan | __ )  ___ | |_ | | / / _____ | |_ |  __ $cyan |  _ \ / _ \|  _|| |/ / |  _  ||  _|| |  \ $lightcyan | |_) | (_) | |_ |  _ \ | | | || |_ | |__/ /
-$blue |____/ \___/ \__||_| \_\|_| |_|\___||_____/";
+$blue __      _(_)___ _ __  _   _
+$blue \ \ /\ / / / __| '_ \| | | |
+$blue  \ V  V /| \__ \ | | | |_| |
+$blue   \_/\_/ |_|___/_| |_|\__,_|
     echo "
 $cyan Author  : wisnu saputra
 $lightcyan Type    : Profil Guard Facebook
 $cyan Github  : http://github.com/wisnusaputra123
-$red Fanspage : https://facebook.com/wisnu.saputra
+$blue Fanspage : https://facebook.com/wisnu.saputra
 $red Instagram : https://instagram.com/wisnu_as123
 $purple Version : 1.0
-$darkgray Date    : $date
+$yellow Date    : $date
 ";
     echo " 
 ";
