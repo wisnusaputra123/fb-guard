@@ -26,7 +26,7 @@ pilih:
 $blue __      _(_)___ _ __  _   _
 $blue \ \ /\ / / / __| '_ \| | | |
 $blue  \ V  V /| \__ \ | | | |_| |
-$blue   \_/\_/ |_|___/_| |_|\__,_|'$cyan Saputra
+$blue   \_/\_/ |_|___/_| |_|\__,_|";
     echo "
 
 $cyan Author  : wisnu saputra
