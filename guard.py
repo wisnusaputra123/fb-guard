@@ -3,7 +3,7 @@
 # Instagram : @wisnu_as123 
 # Facebook : Wisnu Al Vinzcara
 # Author : wisnu-saputra
-import requests, json, argparse, colorama
+import requests, json, argparse
 
 class color:
       green = '\033[92m'
